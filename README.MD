@@ -1,4 +1,4 @@
-This repository contains the code for my MSc Thesis, "Performance Evaluation of GPS Autosurveying Techniques". This is the final version that was used, and, while it works, it is not "clean" code and some things aren't well documented. I apologize for any inconvenience.
+This repository contains the code for my MSc Thesis, "Performance Evaluation of GPS Autosurveying Techniques". This is the final version that was used, and, while it works, it is not "clean" code and some things aren't well documented. I apologize for any inconvenience. The data used for the thesis can be accessed in the following repository: <insert link>
 
 Future support for this code should not be expected, since any future work on my part based on this code will involve a major code rewrite to improve usability.
 
